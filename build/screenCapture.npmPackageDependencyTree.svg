@@ -1,0 +1,86 @@
+<svg height="1326" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1326" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">9 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ marked-toc@0.3.0 </tspan>
+<tspan x="10" y="90">  ├─┬ fs-utils@0.5.0 </tspan>
+<tspan x="10" y="106">  │ ├── async@0.9.2 </tspan>
+<tspan x="10" y="122">  │ ├─┬ delete@0.1.5 </tspan>
+<tspan x="10" y="138">  │ │ ├── is-path-cwd@0.1.0 </tspan>
+<tspan x="10" y="154">  │ │ ├─┬ is-path-in-cwd@0.1.1 </tspan>
+<tspan x="10" y="170">  │ │ │ └─┬ is-path-inside@0.1.0 </tspan>
+<tspan x="10" y="186">  │ │ │   └── path-is-inside@1.0.2 </tspan>
+<tspan x="10" y="202">  │ │ └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="218">  │ │   └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="234">  │ │     ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="250">  │ │     ├── minimatch@3.0.3 </tspan>
+<tspan x="10" y="266">  │ │     └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="282">  │ ├─┬ extend-shallow@0.1.1 </tspan>
+<tspan x="10" y="298">  │ │ └── array-slice@0.2.3 </tspan>
+<tspan x="10" y="314">  │ ├─┬ globby@0.1.1 </tspan>
+<tspan x="10" y="330">  │ │ ├── array-differ@0.1.0 </tspan>
+<tspan x="10" y="346">  │ │ ├─┬ array-union@0.1.0 </tspan>
+<tspan x="10" y="362">  │ │ │ └── array-uniq@0.1.1 </tspan>
+<tspan x="10" y="378">  │ │ └─┬ glob@4.5.3 </tspan>
+<tspan x="10" y="394">  │ │   ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="410">  │ │   │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="426">  │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="442">  │ │   ├─┬ minimatch@2.0.10 </tspan>
+<tspan x="10" y="458">  │ │   │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="474">  │ │   │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="490">  │ │   │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="506">  │ │   └── once@1.4.0 </tspan>
+<tspan x="10" y="522">  │ ├─┬ graceful-fs@3.0.11 </tspan>
+<tspan x="10" y="538">  │ │ └── natives@1.1.0 </tspan>
+<tspan x="10" y="554">  │ ├─┬ is-absolute@0.1.7 </tspan>
+<tspan x="10" y="570">  │ │ └── is-relative@0.1.3 </tspan>
+<tspan x="10" y="586">  │ ├─┬ js-yaml@3.8.3 </tspan>
+<tspan x="10" y="602">  │ │ ├─┬ argparse@1.0.9 </tspan>
+<tspan x="10" y="618">  │ │ │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="634">  │ │ └── esprima@3.1.3 </tspan>
+<tspan x="10" y="650">  │ ├── kind-of@0.1.2 </tspan>
+<tspan x="10" y="666">  │ └─┬ relative@0.1.6 </tspan>
+<tspan x="10" y="682">  │   └── normalize-path@0.1.1 </tspan>
+<tspan x="10" y="698">  ├─┬ gray-matter@0.5.3 </tspan>
+<tspan x="10" y="714">  │ ├── coffee-script@1.12.5 </tspan>
+<tspan x="10" y="730">  │ ├─┬ delims@0.4.2 </tspan>
+<tspan x="10" y="746">  │ │ ├─┬ arrayify-compact@0.1.0 </tspan>
+<tspan x="10" y="762">  │ │ │ └── array-flatten@2.1.1 </tspan>
+<tspan x="10" y="778">  │ │ └── object-pick@0.1.2 </tspan>
+<tspan x="10" y="794">  │ ├─┬ mixin-deep@0.1.0 </tspan>
+<tspan x="10" y="810">  │ │ ├─┬ for-own@0.1.5 </tspan>
+<tspan x="10" y="826">  │ │ │ └── for-in@1.0.2 </tspan>
+<tspan x="10" y="842">  │ │ └── is-plain-object@0.1.0 </tspan>
+<tspan x="10" y="858">  │ ├── toml@2.3.2 </tspan>
+<tspan x="10" y="874">  │ └─┬ verbalize@0.1.2 </tspan>
+<tspan x="10" y="890">  │   └─┬ chalk@0.4.0 </tspan>
+<tspan x="10" y="906">  │     ├── ansi-styles@1.0.0 </tspan>
+<tspan x="10" y="922">  │     ├── has-color@0.1.7 </tspan>
+<tspan x="10" y="938">  │     └── strip-ansi@0.1.1 </tspan>
+<tspan x="10" y="954">  ├── lodash@2.4.2 </tspan>
+<tspan x="10" y="970">  ├── marked@0.3.0 </tspan>
+<tspan x="10" y="986">  ├─┬ template@0.1.8 </tspan>
+<tspan x="10" y="1002">  │ ├── delims@0.1.4 </tspan>
+<tspan x="10" y="1018">  │ ├─┬ fs-utils@0.4.3 </tspan>
+<tspan x="10" y="1034">  │ │ ├── async@0.6.2 </tspan>
+<tspan x="10" y="1050">  │ │ ├─┬ globule@0.2.0 </tspan>
+<tspan x="10" y="1066">  │ │ │ ├─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="1082">  │ │ │ │ └── minimatch@0.3.0 </tspan>
+<tspan x="10" y="1098">  │ │ │ └─┬ minimatch@0.2.14 </tspan>
+<tspan x="10" y="1114">  │ │ │   ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="1130">  │ │ │   └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="1146">  │ │ ├── graceful-fs@2.0.3 </tspan>
+<tspan x="10" y="1162">  │ │ ├─┬ js-yaml@3.0.2 </tspan>
+<tspan x="10" y="1178">  │ │ │ ├─┬ argparse@0.1.16 </tspan>
+<tspan x="10" y="1194">  │ │ │ │ ├── underscore@1.7.0 </tspan>
+<tspan x="10" y="1210">  │ │ │ │ └── underscore.string@2.4.0 </tspan>
+<tspan x="10" y="1226">  │ │ │ └── esprima@1.0.4 </tspan>
+<tspan x="10" y="1242">  │ │ ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="1258">  │ │ └── rimraf@2.2.8 </tspan>
+<tspan x="10" y="1274">  │ └── underscore.string@2.3.3 </tspan>
+<tspan x="10" y="1290">  └─┬ uslug@1.0.4 </tspan>
+<tspan x="10" y="1306">    └── unorm@1.4.1</tspan>
+</text>
+</svg>
